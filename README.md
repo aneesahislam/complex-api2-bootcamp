@@ -20,3 +20,5 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+
+This app allows users to enter a city, state and date and view the moon phase on that day. The project uses two API's, the frist API collects the user's longitude and latitude based on the information they input in the city, state and date field and feeds it to a second API which uses that information to generate a photo of the moon phase on that particular date.
